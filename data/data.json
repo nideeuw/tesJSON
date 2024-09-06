@@ -1,0 +1,28 @@
+{
+    "menu": [
+        {
+            "kategori" : "pizza",
+            "nama" : "Meat Lover",
+            "deskripsi" : "Irisan sosis sapi, daging sapi cincang",
+            "harga" : 49500
+        },
+        {
+            "kategori" : "pizza",
+            "nama" : "Super Supreme",
+            "deskripsi" : "Irisan sosis sapi, daging sapi cincang",
+            "harga" : 48000
+        },
+        {
+            "kategori" : "pizza",
+            "nama" : "Cheese Meat",
+            "deskripsi" : "Irisan sosis sapi, daging sapi cincang",
+            "harga" :50000
+        },
+        {
+            "kategori" : "pizza",
+            "nama" : "Beef",
+            "deskripsi" : "Irisan sosis sapi, daging sapi cincang",
+            "harga" : 47500
+        }
+    ]
+}
